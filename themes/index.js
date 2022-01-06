@@ -324,6 +324,30 @@ const themes = {
     text_color: "0088ff",
     bg_color: "193549",
   },
+  swift: {
+    title_color: "000000",
+    icon_color: "f05237",
+    text_color: "000000",
+    bg_color: "f7f7f7",
+  },
+  aura: {
+    title_color: "a277ff",
+    icon_color: "ffca85",
+    text_color: "61ffca",
+    bg_color: "15141b",
+  },
+  apprentice: {
+    title_color: "ffffff",
+    icon_color: "ffffaf",
+    text_color: "bcbcbc",
+    bg_color: "262626",
+  },
+  moltack: {
+    title_color: "86092C",
+    icon_color: "86092C",
+    text_color: "574038",
+    bg_color: "F5E1C0",
+  },
 };
 
 module.exports = themes;
